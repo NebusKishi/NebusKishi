@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**NebusKishi/NebusKishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hi there 👋
 
 - 🔭 Meu nome é Geovanna
 - 🌱 Sou aluna do Alura
